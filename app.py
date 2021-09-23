@@ -31,4 +31,3 @@ def get_data(days, tickers):
             hist = hist,T
             hist.index.name = 'Name'
             df = pd.concat([df,hidt])
-        return dfgroup 'yamakositakuya' does not exist
